@@ -129,8 +129,14 @@ CVE-2024-39762, CVE-2024-39763, CVE-2024-39764, CVE-2024-39765
 ### 15. Credit / 发现者
 
 ```
-Independently discovered and verified by [你的名字/团队名] using FirmRec
+Independently discovered and verified by ST4R using FirmRec
 automated symbolic execution engine. The same vulnerability pattern was
 originally reported by Cisco Talos for the AC3000 model.
 ```
+
+### 16. 链接
+
+[keyword "WN530H4" - Home and Business Networking Equipment &Wireless Audio and Video Transmission Equipment -Wavlink.com](https://www.wavlink.com/en_us/search.html?key=WN530H4)
+
+![image-20260324105358293](C:\Users\THUNDEROBOT\AppData\Roaming\Typora\typora-user-images\image-20260324105358293.png)
 

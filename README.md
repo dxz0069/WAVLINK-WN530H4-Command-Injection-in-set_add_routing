@@ -1,2 +1,2 @@
-# WAVLINK-WN530H4-Command-Injection-in-set_add_routing
+CVE SUBMIT
 submit 
